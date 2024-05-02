@@ -30,3 +30,6 @@ Fortnite Text Adventure is a Python-based text game that brings the excitement o
 
 *Note:*
 Fortnite Text Adventure aims to provide a fun and immersive text-based gaming experience inspired by the popular Fortnite game. Enjoy the adventure and may the best player emerge victorious in the ultimate battle royale!
+
+
+How To Install
