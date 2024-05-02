@@ -33,6 +33,7 @@ Fortnite Text Adventure aims to provide a fun and immersive text-based gaming ex
 
 
 How To Install
+
 **1:** Download the file in releases as a zip
 
 **2:** extract the files
