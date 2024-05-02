@@ -34,6 +34,9 @@ Fortnite Text Adventure aims to provide a fun and immersive text-based gaming ex
 
 How To Install
 **1:** Download the file in releases as a zip
+
 **2:** extract the files
+
 **3:** download the requirements via cmd (you need python 3.9 or above, tested on 3.12)
-run the py file and the game will start
+
+**4:** run the py file and the game will start
